@@ -1,0 +1,7 @@
+# This is the list file that you place all IPs.
+# Contact is John Mintz.  john.mintz@gmail.com  twitter @johnwmintz
+# Place all IPs below this line.  
+127.0.0.1
+192.168.0.1
+192.168.0.205
+192.168.0.25
