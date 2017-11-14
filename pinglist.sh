@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 #Program name: pinglist.sh
 #Contact is John Mintz.  john.mintz@gmail.com twitter@johnwmintz
 #download this file and the list.txt file and place in the same folder when executing script.
